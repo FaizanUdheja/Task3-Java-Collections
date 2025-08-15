@@ -15,5 +15,5 @@ In Task-3, I have created an console application which performs operation like a
 
 #### Output 
 <img width="300" height="727" alt="image" src="https://github.com/user-attachments/assets/3911d910-f6fa-493e-a629-f71eda58c951" />
-<img width="300" height="723" alt="image" src="https://github.com/user-attachments/assets/7adbe90d-016a-4134-b55e-265b7b854f25" />
-<img width="300" height="725" alt="image" src="https://github.com/user-attachments/assets/5eaa1659-5148-4589-ab1d-005ccc681943" />
+<img width="500" height="723" alt="image" src="https://github.com/user-attachments/assets/7adbe90d-016a-4134-b55e-265b7b854f25" />
+<img width="500" height="725" alt="image" src="https://github.com/user-attachments/assets/5eaa1659-5148-4589-ab1d-005ccc681943" />
